@@ -1,1 +1,0 @@
-# Gestor-de-almacenamiento-en-videojuegos
